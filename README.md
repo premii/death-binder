@@ -221,3 +221,10 @@ Do's & don'ts
 ---- 
 
 ## What to avoid? Whom to avoid? 
+
+
+----
+
+## Medical history
+* List health details about each family member
+* Family medical history - Your kids might need it one day
