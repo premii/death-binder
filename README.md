@@ -8,10 +8,6 @@ Starting with basic:
 Order is not imporant. 
 Gathering all the information 
 
-## Document storage
-* https://www.fidsafe.com/ Secure, free document storage from Fidelity. Meet FidSafe®: the safe, easy, no-cost way to store, access and share digital copies of your family's most important documents.
-
-
 ## First thing to do 
 ### Funeral arrangement
 
@@ -228,3 +224,14 @@ Do's & don'ts
 ## Medical history
 * List health details about each family member
 * Family medical history - Your kids might need it one day
+
+----
+
+## Digital Document storage
+* https://www.fidsafe.com/ Secure, free document storage from Fidelity. 
+
+## Password maanger details
+
+
+
+
