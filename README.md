@@ -2,23 +2,23 @@
 
 Planning for estate &amp; end of life arrangements will make a difficult time easier for your family. Get organized now with this free End-of-Life Checklist.
 
-I am not sure where to start or what to includes. 
+I am not sure where to start or what to include. 
 
-Starting with basic:
-Order is not imporant. 
+Starting with a basic:
+Order is not important. 
 Gathering all the information 
 
 ## First thing to do 
 ### Funeral arrangement
 
 
-### After few weeks Checklist. 
+### After a few weeks, Checklist. 
 
 1. Open a new bank account with only one name
 2. Get a death certificate - How to get one?
-3. Register with Social Security Adminstration
+3. Register with Social Security Administration
 4. Apply for social security survivor benefits - https://www.ssa.gov/benefits/survivors/
-5. Call insurance companny <phone number/name> to arrange life insurance payout. 
+5. Call insurance company <phone number/name> to arrange life insurance payout. 
 6. Transfer properties 
 7. Transfer accounts 
 
@@ -54,13 +54,13 @@ List all life insurance details.
 ----
 
 ## Important contact information 
-List all imporatant contact information
+List all important contact information
 * Insurance Agents
 * financial advisor
 * schools (if you have kids). 
 * Doctors 
 * Trusted friends & family 
-* Household contractrs - lawn service, AC cleaner, handyman
+* Household contractors - lawn service, AC cleaner, handyman
 * Bank Manager 
 
 ### Name / Profession
@@ -69,7 +69,7 @@ List all imporatant contact information
 
 ----
 
-This section contains list of accounts, information that you need to passed to your family 
+This section contains a list of accounts, information that you need to pass to your family. 
 
 ## Bills 
 ### Monthly Bills
@@ -90,7 +90,7 @@ List of Financial Accounts
 ## Accounts
 
 ### Bank Accounts 
-* List of bank accounts and reasons why they were opened. Approximate balance. 
+* List of bank accounts. Approximate balance. 
 * Which to keep it open & which to close
 
 ### Bank Lockers
@@ -99,7 +99,7 @@ List of Financial Accounts
 * What's in it? 
 
 ### Credit Cards 
-* List of credit cards that needs to be closed. 
+* List of credit cards that need to be closed. 
 
 ### Taxable Brokerage Accounts
 
@@ -130,7 +130,7 @@ List of Financial Accounts
 ### Private Equity
 
 
-### Other invesment accounts 
+### Other investment accounts 
 
 ----
 List of properties
@@ -147,26 +147,30 @@ List of properties
 * Property taxes details
 * Direct link to the county property infomration page
 
-## Other type of properties
+## Other types of properties
 * List other types of properties - Rental/vacation 
 
 ## Land
 * Deed
 * parcel number
-* Direct link to the county property infomration page
+* Direct link to the county property information page
 
 ## Gold/Silver
 ----
 
-## Automobiles/Vehicals
+## Automobiles/Vehicles
 ### Car
 * Year
 * Make
 * Model
-* Loan infor
+* Loan details
 * Title info.
 * where is the title?
 * Registration & Insurance details
+
+----
+## Foreign assets
+* Immigrated family usually has properties back home.
 
 ----
 
@@ -180,12 +184,12 @@ List of properties
 Do's & don'ts 
 * What to do with insurance payouts? 
 * What to do with savings
-* What to do with invesetment/retirement accounts
+* What to do with investments/retirement accounts
 * What to do with business
 
-#### Step by step investmnet advice. 
-1. Keep $xx,xxxx amount into saving account for yearly expense
-2. Put rest of the money into following funds
+#### Step by step investment advice. 
+1. Keep $xx,xxxx amount into saving account for a yearly expense
+2. Put the rest of the money into the following funds
    * 40% in VTI - https://investor.vanguard.com/etf/profile/VTI
    * 40% in VOO - https://investor.vanguard.com/etf/profile/VOO
    * 20% in bond ???
@@ -194,12 +198,12 @@ Do's & don'ts
 
 ----
 
-## What to do buy and what not to buy with the money
+## What to buy and what not to buy with the money
 
 ## Kid's education details
 
 ## How to financially survive
-* Where the money will come from? 
+* Where will the money come from? 
 * Shortfall in cash?
 * downsize or not?
   * Example - move to a smaller house with a smaller property tax 
@@ -216,7 +220,7 @@ Do's & don'ts
 
 ---- 
 
-## What to avoid? Whom to avoid? 
+## What to avoid? Who to avoid? 
 
 
 ----
@@ -231,7 +235,4 @@ Do's & don'ts
 * https://www.fidsafe.com/ Secure, free document storage from Fidelity. 
 
 ## Password maanger details
-
-
-
 
