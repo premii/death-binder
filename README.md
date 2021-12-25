@@ -128,6 +128,12 @@ List of Financial Accounts
 ### HSA Accounts
 
 
+### Crypto Accounts/details
+
+
+### Private Equity
+
+
 ### Other invesment accounts 
 
 ----
@@ -136,16 +142,24 @@ List of properties
 ## Real estate properties
 * Address
 * Deed information
+* Parcel Number
 * Mortgage information 
   * Bank Name
   * Interest
   * Monthly payment
 * HOCL 
-* Property taxes
+* Property taxes details
+* Direct link to the county property infomration page
 
 ## Other type of properties
 * List other types of properties - Rental/vacation 
 
+## Land
+* Deed
+* parcel number
+* Direct link to the county property infomration page
+
+## Gold/Silver
 ----
 
 ## Automobiles/Vehicals
