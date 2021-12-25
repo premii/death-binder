@@ -180,6 +180,8 @@ Do's & don'ts
    * 40% in VOO - https://investor.vanguard.com/etf/profile/VOO
    * 20% in bond ???
    
+#### Yearly changes to investments
+
 ----
 
 ## What to do buy and what not to buy with the money
@@ -199,4 +201,9 @@ Do's & don'ts
 
 ----
 
-## Online 
+## Online Accounts
+
+
+---- 
+
+## What to avoid? Whom to avoid? 
