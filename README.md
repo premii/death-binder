@@ -55,6 +55,7 @@ List all life insurance details.
 
 ## Important contact information 
 List all important contact information
+* Accountant
 * Insurance Agents
 * financial advisor
 * schools (if you have kids). 
@@ -66,6 +67,7 @@ List all important contact information
 ### Name / Profession
 * PHone Number
 * Reasons/how can they help
+
 
 ----
 
