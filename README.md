@@ -125,6 +125,8 @@ List of Financial Accounts
 
 ### HSA Accounts
 
+### Bonds
+Any Treasury, municipal or commercial bonds, that are not part of your retirement accounts
 
 ### Crypto Accounts/details
 
@@ -157,7 +159,8 @@ List of properties
 * parcel number
 * Direct link to the county property information page
 
-## Gold/Silver
+## Gold/Silver Jewelry
+
 ----
 
 ## Automobiles/Vehicles
