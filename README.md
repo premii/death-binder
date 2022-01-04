@@ -241,3 +241,15 @@ Do's & don'ts
 
 ## Password maanger details
 
+
+## Debts
+ In the USA at least, if a person dies and leaves behind a bunch of debt, you and anyone else in your family does not pay it off. You let the debt die with that person
+ 
+ They will try and trick you, they will try and get you to pay the debt, but do not fall for it! It is not your responsibility.
+
+Now, they can still take money from the person's estate (That could be the house, or similar). But you and others pay nothing. Now with shared debt, you will be responsible for the payment since it's a joint debt.
+
+Always look into laws about debt when a person dies wherever you live, as each place may be different. Contact an estate attorney after a family member dies.
+
+With student debt: If your parents or legal guardian, co-signed, no. They still owe the debt. Though some places will write them off, not wanting bad publicity.
+ 
