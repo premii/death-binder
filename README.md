@@ -8,9 +8,14 @@ Starting with a basic:
 Order is not important. 
 Gathering all the information 
 
-## First thing to do 
-### Funeral arrangement
+## Continous Planning
+* Update the details every year
+* The **Transfer on Death Designation Affidavit (TOD)**, when properly recorded, permits the direct transfer of the described real property to the designated beneficiary or beneficiaries upon the death of the owner, thus avoiding Probate administration
 
+## First thing to do 
+
+### Funeral arrangement
+* Details about the funeral arrangment 
 
 ### After a few weeks, Checklist. 
 
