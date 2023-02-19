@@ -73,6 +73,14 @@ List all important contact information
 * PHone Number
 * Reasons/how can they help
 
+----
+## Documents
+Keep photocopies of important documents with the binder & location of the originals
+* Birth certificates
+* Marriage Certificate
+* Tax Documents (last 7 years).
+* Passports
+* ID Cards
 
 ----
 
