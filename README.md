@@ -237,6 +237,12 @@ Do's & don'ts
 
 
 ---- 
+## Online Security Questions
+A lot of bank accounts/financial account has security questions in addition to passwords. 
+You must list them with the passwords so that your surviving family can use the informatin to login to your accounts. 
+
+
+---- 
 
 ## What to avoid? Who to avoid? 
 
