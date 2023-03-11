@@ -134,7 +134,10 @@ List of Financial Accounts
 
 
 ### 529 Accounts
-
+* List 529 Accounts
+* Instructions for what to do?
+  * Pay for the education
+  * Transfer all funds to their "Roth IRA" after 15 years from the last deposit. 
 
 ### HSA Accounts
 
